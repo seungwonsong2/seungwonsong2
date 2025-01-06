@@ -1,9 +1,66 @@
-## Hi seungwonsong2👋
+![](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&fontSize=60&animation=twinkling&text=Welcome👦&desc=This%20is%20Jaewon's%20Github!&descSize=30&fontColor=ffffff&fontAlignY=30)
 
-<
-**seungwonsong2/seungwonsong2** is a ✨ _special_ ✨ repository.
+## 🙇‍♂️ Who am I
+Thank you for visiting my Github!<br/><br/>
+
+Hello, I'm Jaewon Lee, I am a university student enjoying to study AI and data science🤚🏻<br/>
+I'm particulary interested in **Recommendation System and LLM!**<br/>
+I hope that my GitHub will be of great help to everyone who came to my GitHub 🍀<br/><br/>
+
+Have a Nice day:)
+
+
+<br/>
+
+## 📞 Contact 
+[![Mail](https://img.shields.io/badge/sswon1008@kookmin.ac.kr-e10915?style=flat-square&logo=Gmail&logoColor=white)](sswon1008@kookmin.ac.kr)
+[![Instagram](https://img.shields.io/badge/Instagram-dd2a7b?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/seungwonsong2/) 
+
+<br/>
+
+## 🖥️ Technical Skills 
+#### • Languages 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 
 
 
-- 🔭 I’m currently working on Koomin Univ.
-- 🌱 I’m currently learning 3rd Grade.
+#### • Development Tools
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>  <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/> 
+
+
+
+<br/>
+
+## 👔 Career 
+| 활동기간 | 기관 | 명칭 | 비고 |
+| :------: | :------: | :------: | :------: |
+| 2020.03. ~ | 국민대학교 | AI빅데이터융합경영학과 | 제1전공 | 재학 |
+| 2024.03. ~ | 국민대학교 | 데이터사이언스전공 | 융합전공 | 재학 |
+| 2023.03. ~ 2024.06. | 국민대학교 | 전공 데이터분석 학회 D&A Basic & ML & Deep Session | 학회원 | 수료 |
+| 2023.12. ~ 2024.11. | 국민대학교 | AI빅데이터융합경영학과 제3대 학생회 채움🍀| 학술부장 | - |
+
+
+<br/>
+
+## 🪪 Certificate
+|취득 연도|자격증|주관|유효기간|
+| :------: | :------: | :------: | :------: |
+| 2024 | ADsP | 한국데이터산업진흥원 | 영구 |
+| 2024 | SQLD | 한국데이터산업진흥원 | 영구 |
+
+
+<br/>
+
+## 🎖️ Competition
+|일시|주관|대회명|분야|비고|수상|
+|:------:|:------:|:------:|:------:|:------:|:------:|
+|2024.9.|국민대학교|2024 국민대학교 비즈니스 아이디어 공모전|데이터분석 & 아이디어|링크|최우수상|
+|2024.11.|국민대학교|제2회 국민대학교 AI빅데이터분석경진대회|ML|링크|대상|
+
+
+
+<br/>
+
+## 👨‍💻 Projects
+|진행 일시|프로젝트명|분야|비고|
+|:------:|:------:|:------:|:------:|
