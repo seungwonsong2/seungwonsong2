@@ -63,4 +63,4 @@ Have a Nice day:)
 ## 👨‍💻 Projects
 | 진행 일시 | 프로젝트명 | 분야 | 비고 |
 |:------:|:------:|:------:|:------:|
-|2024.09~2024.12|SSL을 활용한 차량 엔진 및 배기음 ANOMALY DETECTION|AUDIO|:------:|
+|2024.09~2024.12|SSL을 활용한 차량 엔진 및 배기음 ANOMALY DETECTION|AUDIO|[알파프로젝트 PPT.pdf](https://github.com/user-attachments/files/18763962/PPT.pdf)|
