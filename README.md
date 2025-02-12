@@ -1,7 +1,7 @@
 ## 🙇‍♂️ Who am I
-Thank you for visiting my Github!<br/><br/>
+**Thank you for visiting my Github!** <br/><br/>
 
-Hello, I'm seungwon Song, I am a university student enjoying to study AI and data science🤚🏻<br/>
+Hello, I'm **seungwon Song**, I am a university student enjoying to study AI and data science🤚🏻<br/>
 I hope that my GitHub will be of great help to everyone who came to my GitHub 🍀<br/><br/>
 
 Have a Nice day:)
