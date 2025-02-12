@@ -1,4 +1,4 @@
-[기후변화대응 비즈니스 아이디어 공모전 PPT_TEAM 크랙.pdf](https://github.com/user-attachments/files/18763990/PPT_TEAM.pdf)## 🙇‍♂️ Who am I
+## 🙇‍♂️ Who am I
 Thank you for visiting my Github!<br/><br/>
 
 Hello, I'm seungwon Song, I am a university student enjoying to study AI and data science🤚🏻<br/>
