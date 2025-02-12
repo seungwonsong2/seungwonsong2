@@ -51,8 +51,8 @@ Have a Nice day:)
 ## 🎖️ Competition
 |일시|주관|대회명|분야|비고|수상|
 |:------:|:------:|:------:|:------:|:------:|:------:|
-|2024.9.|국민대학교|2024 국민대학교 비즈니스 아이디어 공모전|데이터분석 & 아이디어| [Uploading 기후변화대응 비즈니스 아이디어 공모전 PPT_TEAM 크랙.pdf…]()|최우수상|
-|2024.11.|국민대학교|제2회 국민대학교 AI빅데이터분석경진대회|ML|[Uploading 제2회 국민대 AI빅데이터분석경진대회 PPT(Team 히또) (2).pdf…]()|대상|
+|2024.9.|국민대학교|2024 국민대학교 비즈니스 아이디어 공모전|데이터분석 & 아이디어|file:///C:/Users/sswon/Downloads/%EA%B8%B0%ED%9B%84%EB%B3%80%ED%99%94%EB%8C%80%EC%9D%91%20%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4%20%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%20%EA%B3%B5%EB%AA%A8%EC%A0%84%20PPT_TEAM%20%ED%81%AC%EB%9E%99.pdf|최우수상|
+|2024.11.|국민대학교|제2회 국민대학교 AI빅데이터분석경진대회|ML|file:///C:/Users/sswon/Downloads/%EC%A0%9C2%ED%9A%8C%20%EA%B5%AD%EB%AF%BC%EB%8C%80%20AI%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C%20PPT(Team%20%ED%9E%88%EB%98%90)%20(2).pdf|대상|
 
 
 
