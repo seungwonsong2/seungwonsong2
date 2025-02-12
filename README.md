@@ -1,6 +1,4 @@
-![](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&fontSize=60&animation=twinkling&text=Welcome👦&desc=This%20is%20seungwon's%20Github!&descSize=30&fontColor=ffffff&fontAlignY=30)
-
-## 🙇‍♂️ Who am I
+[기후변화대응 비즈니스 아이디어 공모전 PPT_TEAM 크랙.pdf](https://github.com/user-attachments/files/18763990/PPT_TEAM.pdf)## 🙇‍♂️ Who am I
 Thank you for visiting my Github!<br/><br/>
 
 Hello, I'm seungwon Song, I am a university student enjoying to study AI and data science🤚🏻<br/>
@@ -53,8 +51,9 @@ Have a Nice day:)
 ## 🎖️ Competition
 |일시|주관|대회명|분야|비고|수상|
 |:------:|:------:|:------:|:------:|:------:|:------:|
-|2024.9.|국민대학교|2024 국민대학교 비즈니스 아이디어 공모전|데이터분석 & 아이디어|링크|최우수상|
-|2024.11.|국민대학교|제2회 국민대학교 AI빅데이터분석경진대회|ML|링크|대상|
+|2024.9.|국민대학교|2024 국민대학교 비즈니스 아이디어 공모전|데이터분석 & 아이디어| [Uploading 기후변화대응 비즈니스 아이디어 공모전 PPT_TEAM 크랙.pdf…]()|최우수상|
+|2024.11.|국민대학교|제2회 국민대학교 AI빅데이터분석경진대회|ML|[Uploading 제2회 국민대 AI빅데이터분석경진대회 PPT(Team 히또) (2).pdf…]()|대상|
+
 
 
 
