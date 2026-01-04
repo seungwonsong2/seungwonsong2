@@ -10,7 +10,6 @@ AI 빅데이터 융합 경영학과를 전공하고 있으며, 데이터 분석�
 
 ## 📫 Contact
 
-- 📧 Email: **sswon1008@naver.com**
 - 🌐 Blog: [https://sswon1008.tistory.com](https://sswon1008.tistory.com)
 - 📸 Instagram: [@seungwonsong2](https://instagram.com/seungwonsong2)
 
