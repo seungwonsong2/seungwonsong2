@@ -76,6 +76,7 @@ AI 빅데이터 융합 경영학과를 전공하고 있으며, 데이터 분석�
 | 진행 일시 | 프로젝트명 | 분야 | 비고 |
 |:------:|:------:|:------:|:------:|
 |2024.09~2024.12|SSL을 활용한 차량 엔진 및 배기음 ANOMALY DETECTION|AUDIO|[알파프로젝트 PPT.pdf](https://github.com/user-attachments/files/18763962/PPT.pdf)|
-|2025.06~2025.08|주차 공간 탐지 시스템| CV |  |
-|2025.07~2025.11| Beautiq | CV |  |
+|2025.03~2025.06|에어비앤비 수수료 정책| 데이터분석 |  |
+|2025.06~2025.08|주차 공간 탐지 시스템(KMU-Smart-Parking-Monitor)| CV | (https://github.com/hsjo827/KMU-Smart-Parking-Monitor) |
+|2025.07~2025.11| Beautiq | CV | (https://github.com/D-X-W-Beautiq) |
 ---
