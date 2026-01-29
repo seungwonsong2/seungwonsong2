@@ -53,12 +53,12 @@ AI 빅데이터 융합 경영학과를 전공하고 있으며, 데이터 분석�
 <br/>
 
 ## 🪪 Certificate
-|취득 연도|자격증|주관|취득|
+|취득 연도|자격증|주관|취득일시|
 | :------: | :------: | :------: | :------: |
-| 2024.09.06 | ADsP | 한국데이터산업진흥원 | 영구 |
-| 2024.09.20 | SQLD | 한국데이터산업진흥원 | 2026.09.20 |
-| 2025.02.15 | ToEIC Speaking AL | YBM | 2027.02.15 |
-| 2025.07.11 | 빅데이터분석기사 | 한국데이터산업진흥원 |  |
+| 2024.09.06 | ADsP | 한국데이터산업진흥원 | 2024.09.06 |
+| 2024.09.20 | SQLD | 한국데이터산업진흥원 | 2024.09.20 |
+| 2025.02.15 | ToEIC Speaking AL | YBM | 2025.02.15 |
+| 2025.07.11 | 빅데이터분석기사 | 한국데이터산업진흥원 | 2025.07.11 |
 
 <br/>
 
@@ -76,7 +76,8 @@ AI 빅데이터 융합 경영학과를 전공하고 있으며, 데이터 분석�
 | 진행 일시 | 프로젝트명 | 분 야 | 비고 |
 |:------:|:------:|:-------:|:------:|
 |2024.09~2024.12|SSL을 활용한 차량 엔진 및 배기음 ANOMALY DETECTION|AUDIO|[알파프로젝트 PPT.pdf](https://github.com/user-attachments/files/18763962/PPT.pdf)|
-|2025.03~2025.06|에어비앤비 수수료 정책| 데이터분석 |  |
-|2025.06~2025.08|주차 공간 탐지 시스템(KMU-Smart-Parking-Monitor)| CV | (https://github.com/hsjo827/KMU-Smart-Parking-Monitor) |
-|2025.07~2025.11| Beautiq | CV | (https://github.com/D-X-W-Beautiq) |
+|2025.03~2025.06|에어비앤비 수수료 정책| 데이터분석 | [Uploading 캡스톤 프로젝트 최종발표.pdf…]() |
+
+|2025.06~2025.08|주차 공간 탐지 시스템(KMU-Smart-Parking-Monitor)| CV | [ADV세션 프로젝트 깃허브](https://github.com/hsjo827/KMU-Smart-Parking-Monitor) |
+|2025.07~2025.11| Beautiq | CV | [Conference세션 프로젝트 깃허브](https://github.com/D-X-W-Beautiq) |
 ---
